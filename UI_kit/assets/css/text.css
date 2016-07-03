@@ -1,0 +1,23 @@
+.title--sub{
+	color:#939aa0;
+}
+
+.title--lg{
+	color:#788188;
+	font-size:2rem;
+	font-family:source_sans_prolight;
+}
+
+.title--md{
+	color:#788188;
+	font-size:24px;
+	font-family:source_sans_prolight;
+}
+
+.title--xs{
+	font-size:.75rem;
+}
+
+
+
+
