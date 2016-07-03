@@ -1,0 +1,44 @@
+@import url(fonts.css);
+@import url(buttons.css);
+@import url(grid.css);
+@import url(forms.css);
+@import url(thumbnails.css);
+@import url(text.css);
+@import url(reset.css);
+
+.bgHeader{
+	background-image:url("../img/background.jpg");
+	background-size:cover;
+	display:flex;
+	height:400px;
+	justify-content:center;
+	width:100%;
+}
+
+	.bgHeader > .container{
+		display:flex;
+		flex-direction:column;
+		justify-content:space-between;
+	}
+
+		header{
+			height:70px;
+			display:flex;
+			justify-content:space-between;
+			align-items:center;
+			width:100%;
+		}
+
+		.mainSearch{
+			display:flex;
+			height:100px;
+			justify-content:center;
+			width:100%;
+		}	
+
+.titleMarginTB{
+	margin:25px 0;
+}
+
+
+
