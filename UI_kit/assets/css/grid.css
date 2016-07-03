@@ -1,0 +1,10 @@
+.container{
+	display:flex;
+	justify-content:space-between;
+	width:1000px;
+}
+
+	.itemSquare{
+		padding-bottom:5px;
+		width:150px;
+	}
