@@ -8,6 +8,11 @@
 	transition: all .3s;
 }
 
+.btn--xs{
+	padding:0 5px;
+	transition: all .3s;
+}
+
 .btn--default{
 	color: #788188;
 	background-color: #fff;
@@ -41,6 +46,11 @@
 		background-color: #4A4DB4;;
 		border-color: #464d8b;
 	}
+
+
+.btn--radius{
+	border-radius: 50px;	
+}
 
 
 
